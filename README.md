@@ -22,12 +22,12 @@
 - 🔭 I’m currently working on Github projects
 
 
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Web3.0
  
 
-- 👯 I’m looking to collaborate on Project related to web dev and python 
+- 👯 I’m looking to collaborate on Project related to web dev
 
-- 💬 Talk to me about Python, JavaScript, Open Source 
+- 💬 Talk to me about Python, JavaScript, Open Source, Web Dev, App dev 
 
 - :octocat: Commited to github
 
